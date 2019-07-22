@@ -49,7 +49,7 @@ that specific location is something like **"C:\Users\<your username here>\.nuget
 @using NonFactors.Mvc.Grid;
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 ```
-12. Go back to the **"contents"** folder in the cached **"nonfactors.grid.mvc6\<some version number>\content"**
+12. Go back to the **"content"** folder in the cached **"nonfactors.grid.mvc6\<some version number>\content"**
 13. Now we want to copy the folder **"mvc-grid"** from the **"css"** directory
 14. Your project should have a folder named **"wwwroot"**. This is a special directory that will have its data sent to the 
 browser. So any CSS or javascript files in that directory will be available to be used by the enduser's browser.
